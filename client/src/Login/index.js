@@ -47,7 +47,7 @@ class Login extends Component {
                 <li>Displays a graph of employee stats for the past 12 months </li>
                 <li>Fully responsive design to fit every screen-size (try rotating your device!) </li>
                 <li>Backed by ExpressJS and MongoDB (hosted on mLab) </li>
-                <li>Employees data scrapped from Tokopedia team page (the Nakamas!) </li>
+                <li>Employees data scrapped from Tokopedia team page (!) </li>
               </ul>
             </div>
           </div>
@@ -58,7 +58,7 @@ class Login extends Component {
                 Built with React + &lt;3
               </div>
               <div>
-                by <a rel="noopener noreferrer" target="_blank" href="https://github.com/jackyef/react-employee-attendance-tracker">Jacky Efendi</a>
+                by <a rel="noopener noreferrer" target="_blank" href=https://github.com/hannan4610/projeto-de-arthur>hannan hunny</a>
               </div>
             </div>
           </div>
